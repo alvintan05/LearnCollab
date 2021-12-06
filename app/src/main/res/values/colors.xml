@@ -10,4 +10,5 @@
     
     <color name="green_stabilo">#0BCAD4</color>
     <color name="text_grey">#7D8797</color>
+    <color name="edit_text_stroke">#0066CB</color>
 </resources>

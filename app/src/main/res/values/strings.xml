@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LearnCollab</string>
+    <string name="forgot_password"><u>Forgot My Password</u></string>
+    <string name="create_new_account"><u>Create New Account</u></string>
 </resources>
